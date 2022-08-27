@@ -18,6 +18,7 @@ Description
 Citing
 	Please notice that any academic work using this code or derivatives thereof, 
 	must cite the original paper that this code was released alongside.
+
 \*---------------------------------------------------------------------------*/
 
 #include "fvCFD.H"
